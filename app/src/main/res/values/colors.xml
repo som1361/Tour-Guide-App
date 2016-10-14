@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#030368</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_color">#030368</color>
+    <color name="item_name_back_color">#303F9F</color>
+    <color name="item_name_color">#e4eded4e</color>
+
+
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#020233</color>
+
+
+    <color name="tab_text_act">#FFFFFF</color>
+
+    <color name="tab_text">#ABA19E</color>
+
+</resources>

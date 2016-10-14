@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ُTourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Sport_Adventure_Fragment">Sport and Adventure</string>
+    <string name="Kids_Fragment">Kids Adventures</string>
+    <string name="Shopping_Fragment">Shopping</string>
+    <string name="Nature_Fragment">Nature Life</string>
+    <string name="Food_Fragment">Resturants</string>
+    <string name="olympic_park_bike">Discover over 35km of safe cycling pathways and see Olympic icons, spectacular parklands.Discover over 35km of safe cycling pathways and see Olympic icons, spectacular parklands and areas of cultural heritage along the way. Discover over 35km of safe cycling pathways and see Olympic icons, spectacular parklands.Discover over 35km of safe cycling pathways and see Olympic icons, spectacular parklands and areas of cultural heritage along the way.</string>
+
+</resources>
